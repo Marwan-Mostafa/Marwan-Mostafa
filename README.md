@@ -18,13 +18,13 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **HTML, CSS, JavaScript, React**
+- 🔭 I’m currently working on **HTML, CSS,Tailwind, JavaScript, React**
 
 - 🌱 I’m currently learning **Mechanical Engineering at Menoufia University**
 
 - ☁️ I've keen interest in Software Engineering. So,I'm learning **Frontend Development**
 
-- 💬 Ask me about **HTML, CSS, react**
+- 💬 Ask me about **HTML, CSS,Tailwind, JS, react**
 
 - 📫 Feel free to reach me out **marwan.mf.tech@gmail.com**
 <!--Intro end-->
